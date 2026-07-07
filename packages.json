@@ -1,0 +1,15 @@
+{
+  "repository": "bhushan277",
+  "version": 1,
+  "packages": [
+    {
+      "id": "android-platform-35",
+      "name": "Android Platform 35",
+      "version": "35",
+      "file": "android-platform-35.zip",
+      "url": "https://github.com/USERNAME/mark3-tool-packages/releases/download/v1.0/android-platform-35.zip",
+      "sha256": "xxxxxxxxxxxxxxxx",
+      "size": 254000000
+    }
+  ]
+}
