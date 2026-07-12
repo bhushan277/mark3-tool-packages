@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "templates": [
+    "webview-shell",
+    "android-java",
+    "android-kotlin",
+    "empty-project"
+  ]
+}
