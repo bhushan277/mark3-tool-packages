@@ -1,0 +1,5 @@
+{
+  "defaultWebTemplate": "webview-shell",
+  "defaultAndroidJava": "android-java",
+  "defaultAndroidKotlin": "android-kotlin"
+}
