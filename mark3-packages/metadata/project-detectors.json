@@ -1,0 +1,24 @@
+{
+  "detectors": [
+    {
+      "file": "package.json",
+      "type": "react"
+    },
+    {
+      "file": "build.gradle",
+      "type": "android"
+    },
+    {
+      "file": "build.gradle.kts",
+      "type": "android"
+    },
+    {
+      "file": "AndroidManifest.xml",
+      "type": "android"
+    },
+    {
+      "file": "index.html",
+      "type": "html"
+    }
+  ]
+}
